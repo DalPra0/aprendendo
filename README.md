@@ -6,6 +6,11 @@
 - NODE.JS
 - PHP
 
+## Coisas que vou aprender no futuro:
+- Como programar um SO
+- RaspberryPi
+- Kali Linux
+- Forense Computacional
 
 ## Bibliotecas que quero aprender:
 
